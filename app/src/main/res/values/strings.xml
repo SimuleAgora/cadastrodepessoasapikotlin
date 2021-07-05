@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CadastroDePessoasAPIkotlin</string>
+    <string name="inserir">Inserir</string>
+    <string name="digite_o_nome">Digite o nome:</string>
+</resources>
